@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChiragGinotra/flashcards/static/css/main.41a19a12.css",
+    "main.js": "/ChiragGinotra/flashcards/static/js/main.c4e4d1bc.js",
+    "index.html": "/ChiragGinotra/flashcards/index.html",
+    "main.41a19a12.css.map": "/ChiragGinotra/flashcards/static/css/main.41a19a12.css.map",
+    "main.c4e4d1bc.js.map": "/ChiragGinotra/flashcards/static/js/main.c4e4d1bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a19a12.css",
+    "static/js/main.c4e4d1bc.js"
+  ]
+}
