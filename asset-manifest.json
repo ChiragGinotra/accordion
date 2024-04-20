@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ChiragGinotra/accordion/static/css/main.41a19a12.css",
-    "main.js": "/ChiragGinotra/accordion/static/js/main.c4e4d1bc.js",
-    "index.html": "/ChiragGinotra/accordion/index.html",
-    "main.41a19a12.css.map": "/ChiragGinotra/accordion/static/css/main.41a19a12.css.map",
-    "main.c4e4d1bc.js.map": "/ChiragGinotra/accordion/static/js/main.c4e4d1bc.js.map"
+    "main.css": "/accordion/static/css/main.41a19a12.css",
+    "main.js": "/accordion/static/js/main.c4e4d1bc.js",
+    "index.html": "/accordion/index.html",
+    "main.41a19a12.css.map": "/accordion/static/css/main.41a19a12.css.map",
+    "main.c4e4d1bc.js.map": "/accordion/static/js/main.c4e4d1bc.js.map"
   },
   "entrypoints": [
     "static/css/main.41a19a12.css",
